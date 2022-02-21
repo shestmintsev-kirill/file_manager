@@ -1,0 +1,16 @@
+.folder {
+  background: rgb(211, 211, 211);
+  cursor: pointer;
+}
+
+.file-manager {
+  padding: 100px;
+}
+
+.current-level {
+  text-align: center;
+}
+
+.up {
+  cursor: pointer;
+}
